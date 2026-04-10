@@ -1,0 +1,6 @@
+C:\DotNet\Assingment\Csharp\TravelConcessionLibrary\bin\Debug\TravelConcessionLibrary.dll
+C:\DotNet\Assingment\Csharp\TravelConcessionLibrary\bin\Debug\TravelConcessionLibrary.pdb
+C:\DotNet\Assingment\Csharp\TravelConcessionLibrary\obj\Debug\TravelConcessionLibrary.csproj.AssemblyReference.cache
+C:\DotNet\Assingment\Csharp\TravelConcessionLibrary\obj\Debug\TravelConcessionLibrary.csproj.CoreCompileInputs.cache
+C:\DotNet\Assingment\Csharp\TravelConcessionLibrary\obj\Debug\TravelConcessionLibrary.dll
+C:\DotNet\Assingment\Csharp\TravelConcessionLibrary\obj\Debug\TravelConcessionLibrary.pdb
