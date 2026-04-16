@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC845933-A294-49F8-8B16-4A1113BD7ABE}|CodeChallenge3.csproj|c:\\dotnet\\assesment\\csharp\\codechallenge3\\mobilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC845933-A294-49F8-8B16-4A1113BD7ABE}|CodeChallenge3.csproj|solutionrelative:mobilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC845933-A294-49F8-8B16-4A1113BD7ABE}|CodeChallenge3.csproj|C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\fileappend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC845933-A294-49F8-8B16-4A1113BD7ABE}|CodeChallenge3.csproj|solutionrelative:fileappend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC845933-A294-49F8-8B16-4A1113BD7ABE}|CodeChallenge3.csproj|C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\cricketteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC845933-A294-49F8-8B16-4A1113BD7ABE}|CodeChallenge3.csproj|solutionrelative:cricketteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC845933-A294-49F8-8B16-4A1113BD7ABE}|CodeChallenge3.csproj|C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC845933-A294-49F8-8B16-4A1113BD7ABE}|CodeChallenge3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MobileSystem.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\MobileSystem.cs",
+              "RelativeDocumentMoniker": "MobileSystem.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\MobileSystem.cs",
+              "RelativeToolTip": "MobileSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:52:12.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAppend.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\FileAppend.cs",
+              "RelativeDocumentMoniker": "FileAppend.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\FileAppend.cs",
+              "RelativeToolTip": "FileAppend.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:51:31.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CricketTeam.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\CricketTeam.cs",
+              "RelativeDocumentMoniker": "CricketTeam.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\CricketTeam.cs",
+              "RelativeToolTip": "CricketTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:50:47.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:38:57.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
