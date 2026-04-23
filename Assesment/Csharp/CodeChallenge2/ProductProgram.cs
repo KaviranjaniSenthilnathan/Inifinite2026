@@ -8,7 +8,7 @@
 
         public void Display()
         {
-            Console.WriteLine($"{ProductId,-5} {ProductName,-15} {Price,8}");
+            Console.WriteLine($"{ProductId,-5} {ProductName,-15} {Price,15}");
         }
     }
 

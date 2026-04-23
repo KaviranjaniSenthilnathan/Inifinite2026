@@ -1,0 +1,8 @@
+C:\DotNet\Assesment\Csharp\CodeChallenges4\obj\Debug\CodeChallenges4.csproj.AssemblyReference.cache
+C:\DotNet\Assesment\Csharp\CodeChallenges4\obj\Debug\CodeChallenges4.csproj.CoreCompileInputs.cache
+C:\DotNet\Assesment\Csharp\CodeChallenges4\bin\Debug\CodeChallenges4.exe.config
+C:\DotNet\Assesment\Csharp\CodeChallenges4\bin\Debug\CodeChallenges4.exe
+C:\DotNet\Assesment\Csharp\CodeChallenges4\bin\Debug\CodeChallenges4.pdb
+C:\DotNet\Assesment\Csharp\CodeChallenges4\obj\Debug\CodeChallenges4.exe
+C:\DotNet\Assesment\Csharp\CodeChallenges4\obj\Debug\CodeChallenges4.pdb
+C:\DotNet\Assesment\Csharp\CodeChallenges4\obj\Debug\CodeChallenges4.exe.config

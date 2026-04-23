@@ -1,0 +1,6 @@
+C:\DotNet\Assesment\Csharp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\DotNet\Assesment\Csharp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\DotNet\Assesment\Csharp\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\DotNet\Assesment\Csharp\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\DotNet\Assesment\Csharp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\DotNet\Assesment\Csharp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
