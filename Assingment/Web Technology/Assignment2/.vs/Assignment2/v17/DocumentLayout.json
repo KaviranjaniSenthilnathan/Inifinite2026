@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F498436-2CF0-45F6-AC47-8C5FF875BDCB}|Assignment2.csproj|c:\\dotnet\\assingment\\web technology\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F498436-2CF0-45F6-AC47-8C5FF875BDCB}|Assignment2.csproj|C:\\DotNet\\Assingment\\Web Technology\\Assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F498436-2CF0-45F6-AC47-8C5FF875BDCB}|Assignment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Script.js",
               "ViewState": "AgIAADAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-05-10T10:33:39.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T10:33:39.012Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T10:33:04.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T10:33:04.572Z"
             }
           ]
         }
