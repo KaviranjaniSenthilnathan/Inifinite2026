@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Question 8</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+<body>
+
+    <input type="text" id="nameInput">
+
+    <script>
+        $(document).ready(function () {
+
+            $("#nameInput").change(function () {
+
+                $("body").append("<p>Input field changed!</p>");
+
+            });
+        });
+
+    </script>
+
+</body>
+</html>

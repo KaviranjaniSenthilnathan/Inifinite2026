@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Question 6</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+<body>
+
+    <ul>
+
+        <li>CSHARP</li>
+        <li>SQL</li>
+        <li>ADO</li>
+
+    </ul>
+
+    <button id="getitem">Get First Item</button>
+
+    <script>
+        $(document).ready(function () {
+            $("#getitem").click(function () {
+
+                let item = $("li").eq(0).text();
+
+                alert(item);
+            });
+        });
+
+    </script>
+
+</body>
+</html>

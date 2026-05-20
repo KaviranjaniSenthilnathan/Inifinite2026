@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|c:\\dotnet\\assesment\\webtechnologies\\codechallenge8\\qn6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|solutionrelative:qn6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|c:\\dotnet\\assesment\\webtechnologies\\codechallenge8\\qn1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|solutionrelative:qn1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|c:\\dotnet\\assesment\\webtechnologies\\codechallenge8\\qn8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|solutionrelative:qn8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|c:\\dotnet\\assesment\\webtechnologies\\codechallenge8\\qn7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|solutionrelative:qn7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|c:\\dotnet\\assesment\\webtechnologies\\codechallenge8\\qn2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|solutionrelative:qn2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|c:\\dotnet\\assesment\\webtechnologies\\codechallenge8\\qn3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|solutionrelative:qn3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|c:\\dotnet\\assesment\\webtechnologies\\codechallenge8\\qn4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|solutionrelative:qn4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|c:\\dotnet\\assesment\\webtechnologies\\codechallenge8\\qn5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|solutionrelative:qn5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|c:\\dotnet\\assesment\\webtechnologies\\codechallenge8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A976BD-58BE-4663-89A5-CD4650E002EA}|CodeChallenge8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Qn8.html",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn8.html",
+              "RelativeDocumentMoniker": "Qn8.html",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn8.html",
+              "RelativeToolTip": "Qn8.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:57:14.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Qn7.html",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn7.html",
+              "RelativeDocumentMoniker": "Qn7.html",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn7.html",
+              "RelativeToolTip": "Qn7.html",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:56:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Qn6.html",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn6.html",
+              "RelativeDocumentMoniker": "Qn6.html",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn6.html",
+              "RelativeToolTip": "Qn6.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:56:44.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Qn5.html",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn5.html",
+              "RelativeDocumentMoniker": "Qn5.html",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn5.html",
+              "RelativeToolTip": "Qn5.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:56:07.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Qn4.html",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn4.html",
+              "RelativeDocumentMoniker": "Qn4.html",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn4.html",
+              "RelativeToolTip": "Qn4.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:54:51.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Qn3.html",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn3.html",
+              "RelativeDocumentMoniker": "Qn3.html",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn3.html",
+              "RelativeToolTip": "Qn3.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:54:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Qn2.html",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn2.html",
+              "RelativeDocumentMoniker": "Qn2.html",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn2.html",
+              "RelativeToolTip": "Qn2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:53:37.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Qn1.html",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn1.html",
+              "RelativeDocumentMoniker": "Qn1.html",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Qn1.html",
+              "RelativeToolTip": "Qn1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:52:36.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebTechnologies\\CodeChallenge8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:51:23.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
