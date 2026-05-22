@@ -7,14 +7,11 @@
       "RelativeMoniker": "D:0:0:{5079ABDD-EDF5-4BA4-BE48-53CD540ED802}|CodeChallenge7.csproj|solutionrelative:insert_display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5079ABDD-EDF5-4BA4-BE48-53CD540ED802}|CodeChallenge7.csproj|c:\\dotnet\\assesment\\csharp\\codechallenge7\\update_display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5079ABDD-EDF5-4BA4-BE48-53CD540ED802}|CodeChallenge7.csproj|C:\\DotNet\\Assesment\\Csharp\\CodeChallenge7\\update_display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5079ABDD-EDF5-4BA4-BE48-53CD540ED802}|CodeChallenge7.csproj|solutionrelative:update_display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CodeChallenge7||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5079ABDD-EDF5-4BA4-BE48-53CD540ED802}|CodeChallenge7.csproj|c:\\dotnet\\assesment\\csharp\\codechallenge7\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,8 +32,7 @@
               "ToolTip": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge7\\CodeChallenge7.csproj",
               "RelativeToolTip": "CodeChallenge7.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-13T06:08:29.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T06:08:29.985Z"
             },
             {
               "$type": "Document",
@@ -46,10 +42,9 @@
               "RelativeDocumentMoniker": "Update_Display.cs",
               "ToolTip": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge7\\Update_Display.cs",
               "RelativeToolTip": "Update_Display.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T05:28:06.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T05:28:06.808Z"
             },
             {
               "$type": "Document",
@@ -59,7 +54,7 @@
               "RelativeDocumentMoniker": "Insert_Display.cs",
               "ToolTip": "C:\\DotNet\\Assesment\\Csharp\\CodeChallenge7\\Insert_Display.cs",
               "RelativeToolTip": "Insert_Display.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T05:26:24.577Z",
               "EditorCaption": ""
