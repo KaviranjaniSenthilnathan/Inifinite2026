@@ -1,0 +1,7 @@
+C:\DotNet\MiniProject\RailSys\bin\Debug\RailSys.exe.config
+C:\DotNet\MiniProject\RailSys\bin\Debug\RailSys.exe
+C:\DotNet\MiniProject\RailSys\bin\Debug\RailSys.pdb
+C:\DotNet\MiniProject\RailSys\obj\Debug\RailSys.csproj.AssemblyReference.cache
+C:\DotNet\MiniProject\RailSys\obj\Debug\RailSys.csproj.CoreCompileInputs.cache
+C:\DotNet\MiniProject\RailSys\obj\Debug\RailSys.exe
+C:\DotNet\MiniProject\RailSys\obj\Debug\RailSys.pdb
