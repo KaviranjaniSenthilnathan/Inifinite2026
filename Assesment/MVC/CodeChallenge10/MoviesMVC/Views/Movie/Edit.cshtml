@@ -1,0 +1,12 @@
+﻿@model MoviesMVC.Models.Movies
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Mid)
+
+    <p>Name: @Html.TextBoxFor(x => x.MovieName)</p>
+    <p>Director: @Html.TextBoxFor(x => x.DirectorName)</p>
+    <p>Date: @Html.TextBoxFor(x => x.DateOfRelease)</p>
+
+    <input type="submit" value="Update" />
+}

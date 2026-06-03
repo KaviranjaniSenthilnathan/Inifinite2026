@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\views\\movie\\byyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:views\\movie\\byyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\views\\movie\\bydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:views\\movie\\bydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|c:\\dotnet\\assesment\\mvc\\codechallenge10\\moviesmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F0D5F2E-EBC1-4AB1-BEBA-8411F793755E}|MoviesMVC.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Delete.cshtml",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:51:14.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:32:25.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Repository\\MovieRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:30:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:31:13.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ByYear.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\ByYear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\ByYear.cshtml",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\ByYear.cshtml",
+              "RelativeToolTip": "Views\\Movie\\ByYear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:32:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "Models\\MovieContext.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Models\\MovieContext.cs",
+              "RelativeToolTip": "Models\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:26:10.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "Repository\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:29:52.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:50:53.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ByDirector.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\ByDirector.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\ByDirector.cshtml",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\ByDirector.cshtml",
+              "RelativeToolTip": "Views\\Movie\\ByDirector.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:33:10.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:31:53.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "Models\\Movies.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Models\\Movies.cs",
+              "RelativeToolTip": "Models\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:25:41.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\DotNet\\Assesment\\MVC\\CodeChallenge10\\MoviesMVC\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-03T05:26:29.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

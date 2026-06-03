@@ -1,0 +1,29 @@
+﻿@model List<MoviesMVC.Models.Movies>
+
+<h2>Movies</h2>
+
+<p>
+    @Html.ActionLink("Create", "Create") |
+    @Html.ActionLink("By Director", "ByDirector", new { director = "Rajamouli" }) |
+    @Html.ActionLink("By Year", "ByYear", new { year = 2023 })
+</p>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Director</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.MovieName</td>
+            <td>@item.DirectorName</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Mid }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Mid })
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,14 @@
+﻿@model NorthwindMVC.Customer
+
+<h2>Customer for Order ID 10248</h2>
+
+@if (Model != null)
+{
+    <p><b>Customer ID:</b> @Model.CustomerID</p>
+    <p><b>Company Name:</b> @Model.CompanyName</p>
+    <p><b>City:</b> @Model.City</p>
+}
+else
+{
+    <p>No customer found.</p>
+}

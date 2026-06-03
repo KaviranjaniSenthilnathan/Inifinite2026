@@ -1,0 +1,11 @@
+﻿@model MoviesMVC.Models.Movies
+
+<h2>Delete Movie</h2>
+
+<p>@Model.MovieName</p>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.Mid)
+    <input type="submit" value="Delete" />
+}
