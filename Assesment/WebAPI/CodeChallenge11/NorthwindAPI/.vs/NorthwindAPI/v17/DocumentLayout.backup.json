@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\Assesment\\WebAPI\\CodeChallenge11\\NorthwindAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F409A8F1-D183-4499-B094-07A6B1E71092}|NorthwindAPI.csproj|c:\\dotnet\\assesment\\webapi\\codechallenge11\\northwindapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F409A8F1-D183-4499-B094-07A6B1E71092}|NorthwindAPI.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F409A8F1-D183-4499-B094-07A6B1E71092}|NorthwindAPI.csproj|c:\\dotnet\\assesment\\webapi\\codechallenge11\\northwindapi\\models\\northwindfinal.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F409A8F1-D183-4499-B094-07A6B1E71092}|NorthwindAPI.csproj|solutionrelative:models\\northwindfinal.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F409A8F1-D183-4499-B094-07A6B1E71092}|NorthwindAPI.csproj|c:\\dotnet\\assesment\\webapi\\codechallenge11\\northwindapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F409A8F1-D183-4499-B094-07A6B1E71092}|NorthwindAPI.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F409A8F1-D183-4499-B094-07A6B1E71092}|NorthwindAPI.csproj|c:\\dotnet\\assesment\\webapi\\codechallenge11\\northwindapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F409A8F1-D183-4499-B094-07A6B1E71092}|NorthwindAPI.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 347,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthwindFinal.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebAPI\\CodeChallenge11\\NorthwindAPI\\Models\\NorthwindFinal.edmx",
+              "RelativeDocumentMoniker": "Models\\NorthwindFinal.edmx",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebAPI\\CodeChallenge11\\NorthwindAPI\\Models\\NorthwindFinal.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\NorthwindFinal.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-09T06:07:08.62Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebAPI\\CodeChallenge11\\NorthwindAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebAPI\\CodeChallenge11\\NorthwindAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T05:44:44.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebAPI\\CodeChallenge11\\NorthwindAPI\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebAPI\\CodeChallenge11\\NorthwindAPI\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-09T05:35:36.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\DotNet\\Assesment\\WebAPI\\CodeChallenge11\\NorthwindAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\DotNet\\Assesment\\WebAPI\\CodeChallenge11\\NorthwindAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T05:17:24.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
